@@ -1,0 +1,18 @@
+D:\Work\c#\BetUpdater\BetUpdater\bin\Release\BetUpdater.exe.config
+D:\Work\c#\BetUpdater\BetUpdater\bin\Release\BetUpdater.exe
+D:\Work\c#\BetUpdater\BetUpdater\bin\Release\BetUpdater.pdb
+D:\Work\c#\BetUpdater\BetUpdater\obj\Release\BetUpdater.exe
+D:\Work\c#\BetUpdater\BetUpdater\obj\Release\BetUpdater.pdb
+F:\001-Our Work\c#(2018-07-18)\BetUpdater\BetUpdater\bin\Release\BetUpdater.exe.config
+F:\001-Our Work\c#(2018-07-18)\BetUpdater\BetUpdater\bin\Release\BetUpdater.exe
+F:\001-Our Work\c#(2018-07-18)\BetUpdater\BetUpdater\bin\Release\BetUpdater.pdb
+F:\001-Our Work\c#(2018-07-18)\BetUpdater\BetUpdater\obj\Release\BetUpdater.csproj.CoreCompileInputs.cache
+F:\001-Our Work\c#(2018-07-18)\BetUpdater\BetUpdater\obj\Release\BetUpdater.exe
+F:\001-Our Work\c#(2018-07-18)\BetUpdater\BetUpdater\obj\Release\BetUpdater.pdb
+F:\001-Our Work\c#(2018-07-18)-new\c#(2018-07-18)\BetUpdater\BetUpdater\bin\Release\BetUpdater.exe.config
+F:\001-Our Work\c#(2018-07-18)-new\c#(2018-07-18)\BetUpdater\BetUpdater\bin\Release\BetUpdater.exe
+F:\001-Our Work\c#(2018-07-18)-new\c#(2018-07-18)\BetUpdater\BetUpdater\bin\Release\BetUpdater.pdb
+F:\001-Our Work\c#(2018-07-18)-new\c#(2018-07-18)\BetUpdater\BetUpdater\obj\Release\BetUpdater.csprojResolveAssemblyReference.cache
+F:\001-Our Work\c#(2018-07-18)-new\c#(2018-07-18)\BetUpdater\BetUpdater\obj\Release\BetUpdater.csproj.CoreCompileInputs.cache
+F:\001-Our Work\c#(2018-07-18)-new\c#(2018-07-18)\BetUpdater\BetUpdater\obj\Release\BetUpdater.exe
+F:\001-Our Work\c#(2018-07-18)-new\c#(2018-07-18)\BetUpdater\BetUpdater\obj\Release\BetUpdater.pdb

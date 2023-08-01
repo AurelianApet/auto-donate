@@ -1,0 +1,13 @@
+D:\Work\c#\BetUpdater\BetUpdater\bin\Debug\BetUpdater.exe.config
+D:\Work\c#\BetUpdater\BetUpdater\obj\Debug\BetUpdater.csprojResolveAssemblyReference.cache
+D:\Work\c#\BetUpdater\BetUpdater\bin\Debug\BetUpdater.exe
+D:\Work\c#\BetUpdater\BetUpdater\bin\Debug\BetUpdater.pdb
+D:\Work\c#\BetUpdater\BetUpdater\obj\Debug\BetUpdater.exe
+D:\Work\c#\BetUpdater\BetUpdater\obj\Debug\BetUpdater.pdb
+F:\001-Our Work\c#(2018-07-18)\BetUpdater\BetUpdater\bin\Debug\BetUpdater.exe.config
+F:\001-Our Work\c#(2018-07-18)\BetUpdater\BetUpdater\bin\Debug\BetUpdater.exe
+F:\001-Our Work\c#(2018-07-18)\BetUpdater\BetUpdater\bin\Debug\BetUpdater.pdb
+F:\001-Our Work\c#(2018-07-18)\BetUpdater\BetUpdater\obj\Debug\BetUpdater.csprojResolveAssemblyReference.cache
+F:\001-Our Work\c#(2018-07-18)\BetUpdater\BetUpdater\obj\Debug\BetUpdater.csproj.CoreCompileInputs.cache
+F:\001-Our Work\c#(2018-07-18)\BetUpdater\BetUpdater\obj\Debug\BetUpdater.exe
+F:\001-Our Work\c#(2018-07-18)\BetUpdater\BetUpdater\obj\Debug\BetUpdater.pdb

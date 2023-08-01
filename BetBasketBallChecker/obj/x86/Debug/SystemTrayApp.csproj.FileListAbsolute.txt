@@ -1,0 +1,12 @@
+D:\Temp\SystemTrayApp\bin\Debug\SystemTrayApp.exe
+D:\Temp\SystemTrayApp\bin\Debug\SystemTrayApp.pdb
+D:\Temp\SystemTrayApp\obj\x86\Debug\SystemTrayApp.csprojResolveAssemblyReference.cache
+D:\Temp\SystemTrayApp\obj\x86\Debug\SystemTrayApp.AboutBox.resources
+D:\Temp\SystemTrayApp\obj\x86\Debug\SystemTrayApp.Properties.Resources.resources
+D:\Temp\SystemTrayApp\obj\x86\Debug\SystemTrayApp.csproj.GenerateResource.Cache
+D:\Temp\SystemTrayApp\obj\x86\Debug\SystemTrayApp.exe
+D:\Temp\SystemTrayApp\obj\x86\Debug\SystemTrayApp.pdb
+D:\Temp\SystemTrayApp\bin\Debug\WebDriver.dll
+D:\Temp\SystemTrayApp\bin\Debug\WebDriver.Support.dll
+D:\Temp\SystemTrayApp\bin\Debug\WebDriver.xml
+D:\Temp\SystemTrayApp\bin\Debug\WebDriver.Support.xml
